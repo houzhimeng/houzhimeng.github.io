@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hzm is here</title>
+    <link>https://houzhimeng.github.io/post/</link>
+    <description>Recent content in Posts on Hzm is here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Jun 2019 03:50:57 +0800</lastBuildDate>
+    
+	<atom:link href="https://houzhimeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://houzhimeng.github.io/post/blog/</link>
+      <pubDate>Wed, 12 Jun 2019 03:50:57 +0800</pubDate>
+      
+      <guid>https://houzhimeng.github.io/post/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://houzhimeng.github.io/post/test/</link>
+      <pubDate>Tue, 11 Jun 2019 21:05:33 +0800</pubDate>
+      
+      <guid>https://houzhimeng.github.io/post/test/</guid>
+      <description>rsync rsync -avzP /data/web2 root@39.105.115.132:/data/ 生产solr cp ttj-ik-analyzer-6.0.jar /usr/local/solr-6.4.2/server/solr-webapp/webapp/WEB-INF/lib/ scp ttj-ik-analyzer-6.0.jar root@solr_2:/usr/local/solr-6.4.2/server/solr-webapp/webapp/WEB-INF/lib/ scp ttj-ik-analyzer-6.0.jar root@solr_3:/usr/local/solr-6.4.2/server/solr-webapp/webapp/WEB-INF/lib/ #开启服务 /usr/local/solr-6.4.2/bin/solr stop /usr/local/solr-6.4.2/bin/solr start -cloud -s /data/solr_cloud/node1/solr -h 39.105.143.74 -p 8983 -z solr_1:2181,solr_2:2181,solr_3:2181 -force /usr/local/solr-6.4.2/bin/solr start -cloud -s /data/solr_cloud/node1/solr -h 39.105.144.131 -p 8983 -z solr_1:2181,solr_2:2181,solr_3:2181 -force /usr/local/solr-6.4.2/bin/solr start -cloud -s /data/solr_cloud/node1/solr -h 39.106.161.172 -p 8983 -z solr_1:2181,solr_2:2181,solr_3:2181 -force 安全启动数据库: mysqld_safe &amp;ndash;defaults-file=/home/mysql/data/slave-my.cnf &amp;ndash;user=mysql &amp;ndash;basedir=/usr/local/mysql &amp;ndash;datadir=/home/mysql/data &amp;amp; nginx升级插件upstream_check patch -p1 &amp;lt; /root/nginx_upstream_check_module-master/check_1.12.1+.patch ./configure &amp;ndash;prefix=/usr/local/nginx &amp;ndash;sbin-path=/usr/sbin/nginx &amp;ndash;conf-path=/etc/nginx/nginx.</description>
+    </item>
+    
+  </channel>
+</rss>
